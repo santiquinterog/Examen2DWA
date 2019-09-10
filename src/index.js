@@ -60,4 +60,6 @@ divS.appendChild(letra6);
 divS.appendChild(letra7);
 divS.appendChild(letra8);
 
+
+
 document.body.appendChild(main);
